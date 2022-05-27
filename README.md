@@ -30,7 +30,7 @@ The dark matter flow theory developed with this dataset including:
 10. [The statistical theory of dark matter flow and high order kinematic and dynamic relations for velocity correlations](http://doi.org/10.48550/arXiv.2202.02991)
 11. [The scale and redshift variation of density and velocity distributions in dark matter flow and two-thirds law for pairwise velocity](http://doi.org/10.48550/arXiv.2202.06515)
 
-along with three applications of theory:
+along with three applications of theory: 
 
 12. [Dark matter particle mass and properties from two-thirds law and energy cascade in dark matter flow](http://doi.org/10.48550/arXiv.2202.07240)
 13. [Origin of MOND acceleration and deep-MOND from acceleration fluctuation and energy cascade in dark matter flow](http://doi.org/10.48550/arXiv.2203.05606)
