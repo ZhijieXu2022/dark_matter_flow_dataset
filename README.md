@@ -6,16 +6,16 @@ Dark matter (DM), if exists, is believed to be cold, collisionless, dissipationl
 Please see two README files for each dataset for more information on each data. The same dataset is also available at Zenodo.com
 
 Xu Z., 2022a, Dark matter flow dataset Part I: Halo-based statistics from
-cosmological N-body simulation, doi:10.5281/zenodo.6541231, 
-http://dx.doi.org/10.5281/zenodo.6541231
+cosmological N-body simulation, doi:10.5281/zenodo.6541230, 
+http://dx.doi.org/10.5281/zenodo.6541230
 
 Xu Z., 2022b, Dark matter flow dataset Part II: Correlation-based statistics
-from cosmological N-body simulation, doi:10.5281/zenodo.6569899,
-http://dx.doi.org/10.5281/zenodo.6569899
+from cosmological N-body simulation, doi:10.5281/zenodo.6569898,
+http://dx.doi.org/10.5281/zenodo.6569898
 
 Xu Z., 2022c, A comparative study of dark matter flow & hydrodynamic
-turbulence and its applications, doi:10.5281/zenodo.6569902, 
-http://dx.doi.org/10.5281/zenodo.6569902
+turbulence and its applications, doi:10.5281/zenodo.6569901, 
+http://dx.doi.org/10.5281/zenodo.6569901
 
 The dark matter flow theory developed with this dataset including:
 1. [Inverse mass cascade in dark matter flow and effects on halo mass functions](http://doi.org/10.48550/arXiv.2109.09985)
