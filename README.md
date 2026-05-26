@@ -1,19 +1,17 @@
 # Dark matter flow dataset from cosmological N-body simulations
 [![Share on Twitter](https://img.shields.io/badge/-share%20on%20twitter-blue?logo=twitter&style=for-the-badge)](https://twitter.com/intent/tweet?text=This%20%22Magic%20Button%22%20share%20stuff%20on%20Twitter%20from%20MARKDOWN%0A%0Ahttps%3A%2F%2F10.5281/zenodo.6569902%2F%0Ahttps%3A%2F%2Fgithub.com%2FZhijieXu2022%2Fdark_matter_flow_dataset%0A%0A%23darkmatter%20%23simulation%20%23cosmology%20%23dataset)
 
-Dark matter (DM), if exists, is believed to be cold, collisionless, dissipationless, non-baryonic, barely interacting with baryonic matter except through gravity, and sufficiently smooth on large scales with a fluid-like behavior. The flow of dark matter can be best described by a self-gravitating collisionless fluid dynamics (SG-CFD). The statistics of dark matter density, velocity, acceleration, energy, momentum, and their redshift evolution play essential roles for structure formation and evolution. This information can be systematically extracted from cosmological N-body simulations by either i) a structural (halo-based) or ii) a statistical (correlation-based) approach and presented by two individual datasets. 
+Dark matter (DM), if exists, is believed to be cold, collisionless, dissipationless, non-baryonic, barely interacting with baryonic matter except through gravity, and sufficiently smooth on large scales with a fluid-like behavior. The flow of dark matter can be best described by a self-gravitating collisionless fluid dynamics (SG-CFD). The statistics of dark matter density, velocity, acceleration, energy, momentum, and their redshift evolution play essential roles in structure formation and evolution. This information can be systematically extracted from cosmological N-body simulations by either i) a structural (halo-based) or ii) a statistical (correlation-based) approach and presented by two individual datasets. 
 
 Please see the two README files for each dataset for more information on each dataset. The same dataset is also available at Zenodo.com
 
-Xu Z., 2022a, Dark matter flow dataset Part I: Halo-based statistics from
-cosmological N-body simulation, doi:10.5281/zenodo.6541230, 
-http://dx.doi.org/10.5281/zenodo.6541230
+Xu Z., 2022a, Dark matter flow dataset Part I: Halo-based statistics from cosmological N-body simulation, doi:10.5281/zenodo.6541230, http://dx.doi.org/10.5281/zenodo.6541230
 
 Xu Z., 2022b, Dark matter flow dataset Part II: Correlation-based statistics from cosmological N-body simulation, doi:10.5281/zenodo.6569898, http://dx.doi.org/10.5281/zenodo.6569898
 
 Xu Z., 2022c, A comparative study of dark matter flow & hydrodynamic turbulence and its applications, doi:10.5281/zenodo.6569901, http://dx.doi.org/10.5281/zenodo.6569901
 
-The dark matter flow theory developed with this dataset, including:
+The dark matter flow theory developed with this dataset (2020--2026), including:
 1. [Universal spectrum and scaling laws for halo mass function, structure, and dark matter mass constraints](http://doi.org/10.48550/arXiv.2109.09985)
 2. [Inverse mass cascade in dark matter flow and effects on halo deformation, energy, size, and density profiles](http://doi.org/10.48550/arXiv.2109.12244)
 3. [Inverse energy cascade in self-gravitating collisionless dark matter flow and effects of halo shape](http://doi.org/10.48550/arXiv.2110.13885)
