@@ -24,10 +24,10 @@ The dark matter flow theory developed with this dataset (2020--2026), including:
 10. [On the statistical theory of self-gravitating collisionless dark matter flow: high order kinematic and dynamic relations](http://doi.org/10.48550/arXiv.2202.02991) Physics of Fluids 36, 075146 (2024)
 11. [On the statistical theory of self-gravitating collisionless dark matter flow: Scale and redshift variation of velocity and density distributions](http://doi.org/10.48550/arXiv.2202.06515) Physics of Fluids 36, 117158 (2024)
 12. [Cold freeze out of superheavy dark matter and Hubble tension](http://doi.org/10.48550/arXiv.2202.07240) Journal: [Eur. Phys. J. C. Vol. 85, 1451, 2025](https://link.springer.com/article/10.1140/epjc/s10052-025-15180-z)
-14. [On a critical acceleration scale of dark matter in Lambda-CDM and dynamical dark energy](http://doi.org/10.48550/arXiv.2203.05606) ApJ vol. 981 40 2025
+14. [On a critical acceleration scale of dark matter in Lambda-CDM and dynamical dark energy](http://doi.org/10.48550/arXiv.2203.05606) Journal: [ApJ vol. 981 40 2025](https://iopscience.iop.org/article/10.3847/1538-4357/adaeb3)
 15. [The baryonic-to-halo mass relation from mass and energy cascade in dark matter flow](http://doi.org/10.48550/arXiv.2203.06899)
 16. [Cosmic quenching and scaling laws for the evolution of supermassive black holes and host galaxies](https://doi.org/10.48550/arXiv.2501.07608) Journal: [MNRAS 536, 3554-3587 2025](https://academic.oup.com/mnras/article/536/4/3554/7929881)
-17. [Universal scaling laws and density slope for dark matter haloes](https://doi.org/10.48550/arXiv.2209.03313) Scientific Reports (2023) 13: 4165
-18. [Dark matter halo mass functions and density profiles from mass and energy cascade](https://doi.org/10.48550/arXiv.2210.01200) Scientific Reports (2023) 13: 16531
+17. [Universal scaling laws and density slope for dark matter haloes](https://doi.org/10.48550/arXiv.2209.03313) Journal: [Scientific Reports 13: 4165 2023](https://www.nature.com/articles/s41598-023-31083-z)
+18. [Dark matter halo mass functions and density profiles from mass and energy cascade](https://doi.org/10.48550/arXiv.2210.01200) Journal: [Scientific Reports 13: 16531 2023](https://www.nature.com/articles/s41598-023-42958-6)
 19. [From turbulence to cosmic structure: a unified stochastic random walk theory for Kolmogorov spectrum, halo mass functions, and halo density profiles](https://doi.org/10.21203/rs.3.rs-9674983/v1)
 20. [Superheavy dark matter and stepped dark radiation for Hubble Tension](https://doi.org/10.21203/rs.3.rs-8570078/v1)
